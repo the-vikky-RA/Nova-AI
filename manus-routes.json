@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "Nova AI" },
+    { "path": "/404", "title": "Not found" }
+  ]
+}
